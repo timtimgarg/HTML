@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Student Information</h2>
+    <table border="2" cellspacing="8" cellpadding="8">
+        <th colspan="5">
+            Student Data
+        </th>
+    </tr>
+    <tr>
+        <th>S.no</th>
+        <th>Student Name</th>
+        <th>Course</th>
+        <th>Roll.no</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Mehak Garg</td>
+        <td>MCA</td>
+        <td>MCA01</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Muskan Choudhary</td>
+        <td>MCA</td>
+        <td>MCA02</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Diksha Varshney</td>
+        <td>MCA</td>
+        <td>MCA03</td>
+    </tr>
+    <h2>Student Information</h2>
+    <table  style="border: 1px solid red; border-collapse:collapse;">
+    <TR>
+        <th rowspan="5" style="border: 1px solid red;background-color:yellow">KIET MCA</th>
+        <th colspan="5" style="border: 1px solid red;background-color:aqua">
+            Student Data
+        </th>
+    </tr>
+    <tr>
+        <th style="border: 1px solid red;background-color:blue">S.no </th>
+        <th style="border: 1px solid red;background-color:darkorchid">Student Name</th>
+        <th style="border: 1px solid red;background-color:crimson">Course</th>
+        <th style="border: 1px solid red;background-color:darkgreen">Roll.no</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid red;background-color:darkkhaki>1</td>
+        <td style="border: 1px solid red;background-color:red">Mehak Garg</td>
+        <td>MCA</td>
+        <td>MCA01</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Muskan Choudhary</td>
+        <td>MCA</td>
+        <td>MCA02</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Diksha Varshney</td>
+        <td>MCA</td>
+        <td>MCA03</td>
+    </tr>
+</table>
+    
+</body>
+</html>
