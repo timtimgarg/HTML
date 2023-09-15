@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Listing Example</h1>
+    <ol type = "I" start="4">
+        <li>ordered list number 1</li>
+        <li>ordered list number 2</li>
+        <li>ordered list number 3</li>
+        <li>ordered list number 4</li>
+        <li>ordered list number 5</li>
+    </ol>
+    <h1>Un-Ordered Listing</h1>
+    <ul style ="list-style-type:square;">
+    <li>list 1</li>
+    <li>list 2</li>
+    <li>list 3</li>
+    <li>list 4</li>
+    <li>list 5</li>
+</ul>
+<h1>Description Listing</h1>
+<d1 style="list-style-type:circle;">
+<dd>java</dd>
+<dt>This is a Programming Language</dt>
+<dd>html</dd>
+<dt>This is a markup language</dt>
+</html>
